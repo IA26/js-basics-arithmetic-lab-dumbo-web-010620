@@ -6,4 +6,4 @@ const random = Math.random(50);
 
 const mod = 4 
 
-const max = [1,2,3,4,5,6].max;
+const max = Math.max(1,2,3,4,5,6,7)
