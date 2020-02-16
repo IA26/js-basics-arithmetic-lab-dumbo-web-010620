@@ -1,3 +1,2 @@
-// Write your code here
-
-let multiply = 8 * 8;
+let var1 = 8 
+let var2 = 8 
