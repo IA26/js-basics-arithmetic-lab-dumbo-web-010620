@@ -6,4 +6,4 @@ const random = Math.random(50);
 
 const mod = 4 
 
-const max = Math.max(1..20);
+const max = Math.max(1..20);  
