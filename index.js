@@ -4,4 +4,4 @@ let multiply = var1 * var2
 
 const random = Math.random(50);
 
-const mod = 12 % 3
+const mod = 4 %
